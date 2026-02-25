@@ -1,0 +1,31 @@
+
+{
+  "name": "chan",
+  "version": "0.0.0",
+  "description": "A go style channel implementation that works nicely with co",
+  "main": "chan.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/drylikov/chan"
+  },
+  "keywords": [
+    "async",
+    "go",
+    "channel",
+    "co",
+    "generator"
+  ],
+  "author": "Denis Rylikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drylikov/chan/issues"
+  },
+  "homepage": "https://github.com/drylikov/chan",
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "expect.js": "~0.2.0"
+  }
+}
