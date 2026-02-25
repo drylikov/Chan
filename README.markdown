@@ -1,4 +1,3 @@
-
 # Chan
 
 A [go](http://golang.org) style channel implementation.
